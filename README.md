@@ -11,7 +11,7 @@ Once you have satisfied the prerequisites, follow these steps to install the pro
 ```
 $ git clone https://github.com/MichaelGreco7/React-Components.git
 
-$ cd React Component Practice
+$ cd React-Components
 ```
 
 2. Install npm dependencies
